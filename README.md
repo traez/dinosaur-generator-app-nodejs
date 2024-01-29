@@ -28,8 +28,8 @@ Building a basic web app using Node.js (Express.js) loading external API data us
 
 ### Links
 
-- Solution URL: [https://github.com/traez/dinosaur-generator-nodejs](https://github.com/traez/dinosaur-generator-nodejs)
-- Live Site URL: [https://dinosaur-generator-nodejs-traez.vercel.app](https://dinosaur-generator-nodejs-traez.vercel.app)
+- Solution URL: [https://github.com/traez/dinosaur-generator-app-nodejs](https://github.com/traez/dinosaur-generator-app-nodejs)
+- Live Site URL: [https://dinosaur-generator-app-nodejs.onrender.com/](https://dinosaur-generator-app-nodejs.onrender.com/)
 
 ## My process
 
@@ -52,6 +52,7 @@ Building a basic web app using Node.js (Express.js) loading external API data us
 - First baptism putting Nodejs and Expressjs to use, and finally understanding essence of Server Side rendering (backend).
 - Better understanding of use of Environmental variables, and essence of Server side rendering.
 - Switching between node and powershell terminals in VsCode.
+- Came back with better understanding roughly 5 weeks later and did a clean up, making sure to properly deploy.  
 
 ### Continued development
 
